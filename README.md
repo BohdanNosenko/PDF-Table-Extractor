@@ -6,14 +6,14 @@ PDF Table Extractor is a Python program that allows users to extract tables from
 
 Before running the program, make sure you have Python 3.x installed on your computer. Clone this repository and install the required dependencies using the following command:
 
-'''python
+'''
 pip install -r requirements.txt
 '''
 
 ## How to Use
 Once you have installed the required dependencies, you can run the program by running the following command:
 
-'''python
+'''
 python main.py
 '''
 
