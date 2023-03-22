@@ -2,7 +2,9 @@
 
 PDF Table Extractor is a Python program that allows users to extract tables from PDF files and export them to XLSX file. This program uses the [**customtkinter**](https://pypi.org/project/customtkinter/) library to provide a modern Graphical User Interface (GUI) and uses the [**tabula-py**](https://pypi.org/project/tabula-py/) library to read PDF files and extract tables, and the [**pandas**](https://pypi.org/project/pandas2/) library to create Excel documents.
 
-![img](/images/GUI.png)
+<p align="middle">
+  <img src="/images/GUI.png" />
+</p>
 
 ## Installation
 
